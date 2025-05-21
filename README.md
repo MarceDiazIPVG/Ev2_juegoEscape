@@ -1,4 +1,3 @@
-🎮 Escape a la Base
 Escape a la Base es un videojuego de acción y estrategia en el que el jugador debe escapar de cinco enemigos y llegar a una base segura antes de que se agote el tiempo. El jugador tiene únicamente 15 segundos para completar el objetivo.
 
 Durante la partida, los enemigos persiguen automáticamente al jugador utilizando IA, y si logran tocarlo una vez, su velocidad se reduce temporalmente. Sin embargo, si lo tocan dos veces, el enemigo se autodestruye y el jugador pierde instantáneamente la partida.
